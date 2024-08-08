@@ -1,0 +1,25 @@
+.main{
+    display: flex;
+    padding: 5px;
+}
+.one{
+   margin: 5px;
+ 
+  
+}
+.two{
+    margin: 5px;
+ }
+ p{
+    color:blueviolet;
+    background-color: antiquewhite;
+ }
+ h1{
+   color: darkgreen; 
+   background-color: coral;
+ }
+ .box{
+ width: 50%;
+ height:auto;
+    
+ }
